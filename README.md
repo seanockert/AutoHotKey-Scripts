@@ -1,7 +1,7 @@
 AutoHotKey-Scripts
 ==================
 
-A collection of useful AutoHotKey scripts. AutoHotKey is a powerful scripting langage for Windows. Download it here first to run these AHK files: http://www.autohotkey.com/download/ There's tons of good scripts out there but these are some I use every day. You can combine them into one .ahk file to have them all run at once.
+A collection of useful AutoHotKey scripts. AutoHotKey is a powerful scripting langage for Windows. Download it here first to run these AHK files: http://www.autohotkey.com/download. You can compile these into executables to be used anywhere without installing AutoHotKey (eg via a thumbdrive). There's tons of good scripts out there but these are some I use every day. You can combine them into one .ahk file to have them all run at once.
 
 ## ColorCursor ##
 
